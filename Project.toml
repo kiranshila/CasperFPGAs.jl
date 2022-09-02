@@ -3,6 +3,9 @@ uuid = "ece777b4-938b-4c68-9ccf-dc3c5f4282b6"
 authors = ["Kiran Shila <me@kiranshila.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+KATCP = "e837ba60-bee6-44a9-bf25-3404cc1d5c54"
+
 [compat]
 julia = "1.8"
 
