@@ -1,0 +1,13 @@
+name = "CasperFPGAs"
+uuid = "ece777b4-938b-4c68-9ccf-dc3c5f4282b6"
+authors = ["Kiran Shila <me@kiranshila.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.8"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
